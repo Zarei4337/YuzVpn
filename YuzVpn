@@ -3,8 +3,8 @@
 "servers": [
 
 
-"vless://6115d238-cad0-437e-bed6-b62a24b397db@104.18.26.90:80?encryption=none&security=none&type=httpupgrade&host=Kk78.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80#%28%D9%87%D9%85%D8%B1%D8%A7%D9%87%29",
-"vless://6115d238-cad0-437e-bed6-b62a24b397db@104.16.103.250:80?encryption=none&security=none&type=httpupgrade&host=kk78.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80#%28%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%29"
+"vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOVx1RDgzQ1x1RERFQSBHZXJtYW55IiwNCiAgImFkZCI6ICIxODUuMTI0LjE3NS44OSIsDQogICJwb3J0IjogIjIwMCIsDQogICJpZCI6ICIyOThhNjZmNi0yNGUyLTQxMjItOGI3ZS0xMzllNGM2MWFhNmQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICJhdmlkbWVocmVnYW4uY29tIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ=="
+
 
 ]
 
