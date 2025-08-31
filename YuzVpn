@@ -3,6 +3,6 @@
 "servers": [
 
 
-    "vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1?#Update-Required-Get-New-Version-On-Telegram-YuzVPN_Update"
+    "vless://1e31c598-27a0-41cc-8a00-8e277c2f68ef@127.0.0.1:55736?type=tcp&security=none#Update-Required-Telegram-YuzVPN_Update"
 ]
 }
