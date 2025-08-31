@@ -3,6 +3,6 @@
 "servers": [
 
 
-    "vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?encryption=none&security=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B2%40"
+    "vless://1e31c598-27a0-41cc-8a00-8e277c2f68ef@141.11.103.69:55736?type=tcp&security=none#RayNetVPN-YoozVPN"
 ]
 }
