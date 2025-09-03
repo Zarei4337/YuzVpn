@@ -3,6 +3,8 @@
 "servers": [
 
 
-    "vless://f6aa78a8-4166-4728-91a2-1c043ede1649@shop.wngames.click:35029?type=tcp&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=shop.wngames.click#YoozVPNPRO-wpke7gav"
+    "vless://f6aa78a8-4166-4728-91a2-1c043ede1649@shop.wngames.click:35029?type=tcp&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=shop.wngames.click#YoozVPNPRO-wpke7gav",
+"vless://1e31c598-27a0-41cc-8a00-8e277c2f68ef@141.11.103.69:55736?encryption=none&security=none&type=tcp&headerType=none#YoozVPN2"
+
 ]
 }
