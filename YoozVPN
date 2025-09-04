@@ -3,7 +3,6 @@
 "servers": [
 
 
-"vless://6b75d491-c4b9-462c-aaba-a989d481a7c2@149.202.142.193:28892?encryption=none&security=tls&sni=shop.wngames.click&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#YoozVPN5-xy3n42lc",
 "vless://1e31c598-27a0-41cc-8a00-8e277c2f68ef@141.11.103.69:55736?type=tcp&security=none#RayNetVPN-YoozVPN"
 
 ]
