@@ -2,7 +2,7 @@
 
 "servers": [
 
-"vless://e9ad9d0d-7482-4411-8d8a-9b5a38e47b93@149.202.142.193:25658?encryption=none&security=none&type=tcp&headerType=none#YoozVPN85-1ay299zr",
+"trojan://ZcZS49u0iQ@149.202.142.193:32172?type=tcp&security=none#YoozVPN856-81d4k7ep",
 
 
 "vless://1e31c598-27a0-41cc-8a00-8e277c2f68ef@141.11.103.69:55736?type=tcp&security=none#RayNetVPN-YoozVPN"
