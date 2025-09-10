@@ -2,7 +2,7 @@
 
 "servers": [
 
+"vless://e945efdb-c3b4-4e01-a06a-19ac6f03ad92@149.202.142.193:15874?type=tcp&security=reality&pbk=qFH-JC0EjgPer8f1t4kRjVN2KLAvAnzRplRFwA4OsGM&fp=chrome&sni=www.google.com&sid=15007e&spx=%2F#YoozVPN85-rjdyq8st"
 
-    "vless://1e31c598-27a0-41cc-8a00-8e277c2f68ef@127.0.0.1:55736?type=tcp&security=none#Update-Required-Com-To-Telegram-Update-YoozVPN"
 ]
 }
