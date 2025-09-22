@@ -2,7 +2,7 @@
 
 "servers": [
 
-"vless://59dba109-edfb-4ade-aaca-c3e1cf2ddb67@149.202.142.193:49298?type=tcp&security=none#YoozVPN8585-ijopppus"
+"vless://36cfbf18-6e09-48b8-99e9-deebbf2d7d10@149.202.142.193:15874?security=reality&encryption=none&pbk=qFH-JC0EjgPer8f1t4kRjVN2KLAvAnzRplRFwA4OsGM&headerType=&fp=chrome&spx=%2F&type=tcp&sni=www.google.com&sid=15007e#YoozVPN85-Ab"
 
 ]
 }
