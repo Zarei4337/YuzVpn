@@ -2,7 +2,7 @@
 
 "servers": [
 
-"vless://e945efdb-c3b4-4e01-a06a-19ac6f03ad92@149.202.142.193:15874?type=tcp&security=reality&pbk=qFH-JC0EjgPer8f1t4kRjVN2KLAvAnzRplRFwA4OsGM&fp=chrome&sni=www.google.com&sid=15007e&spx=%2F#YoozVPN85-rjdyq8st"
+"vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw&sid=200f99e321&type=tcp&headerType=none#I%201189%20%28%40Outline_Vpn%29%20free"
 
 ]
 }
