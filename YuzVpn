@@ -2,7 +2,7 @@
 
 "servers": [
 
-"vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw&sid=200f99e321&type=tcp&headerType=none#I%201189%20%28%40Outline_Vpn%29%20free"
+"vless://3dab2697-55a1-4355-93f9-3f2782466bfa@tun.digikala2.com:8443?encryption=none&security=none&type=tcp&headerType=none#gholam"
 
 ]
 }
