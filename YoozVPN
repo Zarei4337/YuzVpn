@@ -2,7 +2,7 @@
 
 "servers": [
 
-"vless://3dab2697-55a1-4355-93f9-3f2782466bfa@tun.digikala2.com:8443?encryption=none&security=none&type=tcp&headerType=none#gholam"
+"vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=azizoarjmand.info&type=ws&host=azizoarjmand.info&path=%2Fyhowcws#I%2053%20%28%40Outline_Vpn%29%20free"
 
 ]
 }
