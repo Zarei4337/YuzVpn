@@ -1,7 +1,8 @@
 {
 
 "servers": [
-"vless://6301e523-39cb-4216-be68-e87e95910390@104.234.1.90:57109?type=tcp&encryption=none&security=reality&pbk=rOFd_L03QAJciIii473LU1i91qWLavi8X0fj6KjgHnY&fp=chrome&sni=www.amd.com&sid=a8952aadce580758&spx=%2F#YoozVPN%40Wn_Games-otxynj3z",
-"vless://32e28141-d05b-4fa8-af6e-e562fe58a479@51.161.30.151:443?type=tcp&encryption=none&security=none#NEee-5u8oq93u"
+"vless://32e28141-d05b-4fa8-af6e-e562fe58a479@51.161.30.151:443?type=tcp&encryption=none&security=none#NEee-5u8oq93u",
+"vless://6301e523-39cb-4216-be68-e87e95910390@104.234.1.90:57109?type=tcp&encryption=none&security=reality&pbk=rOFd_L03QAJciIii473LU1i91qWLavi8X0fj6KjgHnY&fp=chrome&sni=www.amd.com&sid=a8952aadce580758&spx=%2F#YoozVPN%40Wn_Games-otxynj3z"
+
 ]
 }
