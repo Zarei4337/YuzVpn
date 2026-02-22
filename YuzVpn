@@ -1,8 +1,6 @@
 {
 
 "servers": [
-"vless://b14a5511-d128-4d40-b639-40d6c24fdd70@155.117.234.41:46573?type=tcp&encryption=none&security=reality&pbk=4_0m5HcLx8-XjKNFEa2MbmTawCDRMG_VKT8sgYfTrS0&fp=chrome&sni=www.oracle.com&sid=8e&spx=%2F#YoozVPN-w6b82382",
-"vless://6301e523-39cb-4216-be68-e87e95910390@104.234.1.90:57109?type=tcp&encryption=none&security=reality&pbk=rOFd_L03QAJciIii473LU1i91qWLavi8X0fj6KjgHnY&fp=chrome&sni=www.amd.com&sid=a8952aadce580758&spx=%2F#YoozVPN%40Wn_Games-otxynj3z"
-
+"vless://b14a5511-d128-4d40-b639-40d6c24fdd70@155.117.234.41:46573?type=tcp&encryption=none&security=reality&pbk=4_0m5HcLx8-XjKNFEa2MbmTawCDRMG_VKT8sgYfTrS0&fp=chrome&sni=www.oracle.com&sid=8e&spx=%2F#YoozVPN-w6b82382"
 ]
 }
