@@ -1,6 +1,6 @@
 {
 
 "servers": [
-"trojan://MiTiVPN@89.116.250.135:443?security=tls&sni=Win-Nll--l.App-Cloud.Ir&fp=chrome&allowInsecure=1&type=ws&host=Wihn-Nlkl--ol.App-Cloud.Ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl#StoneVPN"
+"vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@103.161.237.54:443?encryption=none&security=tls&sni=vod.ensf.top&alpn=http%2F1.1&type=ws&host=vod.ensf.top&path=%2Fapi%2Fv1%2Firc#YoozVPN"
 ]
 }
